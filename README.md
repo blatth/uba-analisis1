@@ -4,9 +4,9 @@
 - [Álgebra lineal y Cálculo en varias variables - Gabriel Larotonda](https://github.com/blatth/analisis1/blob/main/Recursos/ALyCVV%20-%20Larotonda.pdf)
 - [Cálculo de varias variables - James Stewart](https://github.com/blatth/analisis1/blob/main/Recursos/CVV%20-%20Stewart.pdf)
 - [Videos teóricos](https://www.youtube.com/channel/UCI5eBiPN3BlTZIJ0YG3Q8_A/playlists)
-  
-## Prácticas
+- [Cronograma](https://github.com/blatth/analisis1/blob/main/Recursos/Cronograma.xlsx)
 
+## Prácticas
 | N° | Tema                                                                                          |
 |---|----------------------------------------------------------------------------------------------|
 | 1 | [Geometría en R² y R³ - Aplicaciones](https://github.com/blatth/analisis1/blob/main/Pr%C3%A1cticas/Practica%201-1C24.pdf)
