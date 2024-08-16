@@ -1,10 +1,11 @@
 # Análisis I
 
 ## Recursos
-- [Álgebra lineal y Cálculo en varias variables - Gabriel Larotonda](https://github.com/blatth/analisis1/blob/main/Recursos/ALyCVV%20-%20Larotonda.pdf)
-- [Cálculo de varias variables - James Stewart](https://github.com/blatth/analisis1/blob/main/Recursos/CVV%20-%20Stewart.pdf)
+- [Álgebra lineal y Cálculo en varias variables - Gabriel Larotonda](https://github.com/blatth/analisis1/blob/main/Recursos/ALyCVV-Larotonda.pdf)
+- [Cálculo de varias variables - James Stewart](https://github.com/blatth/analisis1/blob/main/Recursos/CVV-Stewart.pdf)
 - [Videos teóricos](https://www.youtube.com/channel/UCI5eBiPN3BlTZIJ0YG3Q8_A/playlists)
 - [Cronograma](https://github.com/blatth/analisis1/blob/main/Recursos/Cronograma.xlsx)
+- Tablas de cuádricas comunes [v1](https://github.com/blatth/analisis1/blob/main/Recursos/CuadricasComunesv1.pdf) y [v2](https://github.com/blatth/analisis1/blob/main/Recursos/CuadricasComunesv2.pdf)
 
 ## Prácticas
 | N° | Tema                                                                                          |
