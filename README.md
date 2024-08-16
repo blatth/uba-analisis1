@@ -2,6 +2,7 @@
 
 ## Recursos
 - [Álgebra lineal y Cálculo en varias variables - Gabriel Larotonda](https://github.com/blatth/analisis1/blob/main/Recursos/ALyCVV%20-%20Larotonda.pdf)
+- [Cálculo de varias variables - James Stewart](https://github.com/blatth/analisis1/blob/main/Recursos/CVV%20-%20Stewart.pdf)
 - [Videos teóricos](https://www.youtube.com/channel/UCI5eBiPN3BlTZIJ0YG3Q8_A/playlists)
   
 ## Prácticas
